@@ -1,4 +1,12 @@
-<h2><a href="https://leetcode.com/problems/length-of-last-word">Length of Last Word</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>Given a string <code>s</code> consisting of words and spaces, return <em>the length of the <strong>last</strong> word in the string.</em></p>
+# 58. Length of Last Word
+
+🟢 **Easy** &nbsp;|&nbsp; [View on LeetCode](https://leetcode.com/problems/length-of-last-word/)
+
+**Topics:** String
+
+---
+
+<p>Given a string <code>s</code> consisting of words and spaces, return <em>the length of the <strong>last</strong> word in the string.</em></p>
 
 <p>A <strong>word</strong> is a maximal <span data-keyword="substring-nonempty">substring</span> consisting of non-space characters only.</p>
 
@@ -35,3 +43,8 @@
 	<li><code>s</code> consists of only English letters and spaces <code>&#39; &#39;</code>.</li>
 	<li>There will be at least one word in <code>s</code>.</li>
 </ul>
+
+
+---
+
+**My Solution:** [58-Length-of-Last-Word.java](./58-Length-of-Last-Word.java)
